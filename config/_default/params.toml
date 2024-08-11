@@ -17,7 +17,7 @@ backgroundImageWidth = 1200
 defaultBackgroundImage = "img/bckg.png" # used as default for background images 
 defaultFeaturedImage = "img/bckg.jpg" # used as default for featured images in all articles
 
-disableImageZoom = false
+disableImageZoom = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
