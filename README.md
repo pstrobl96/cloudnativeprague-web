@@ -21,7 +21,6 @@ cd cloudnativeprague-web
 hugo server -D
 ```
 
-## How to add page?
+### Github pages
 
-Hugo use Markdown for formatting of pages. Guide of basic syntax can be found at [Markdown Guide](https://www.markdownguide.org/basic-syntax/).  
-
+Alternatively you can access website at github pages
