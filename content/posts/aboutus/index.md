@@ -1,9 +1,9 @@
 ---
-title: "Past Meetups"
+title: "About Us"
 date: 2024-08-11T09:50:00+02:00
 menu: main
-image: img/pastmeetups.png
-weight: 3
+image: /posts/about.png
+weight: 5
 tags: ["cnp", "info", "about"]
 ---
 

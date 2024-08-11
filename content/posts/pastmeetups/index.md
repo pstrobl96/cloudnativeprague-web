@@ -1,9 +1,8 @@
 ---
-title: "Get in Touch with Us"
+title: "Past Meetups"
 date: 2024-08-11T09:50:00+02:00
 menu: main
-image: img/getintouch.png
-weight: 2
+weight: 3
 tags: ["cnp", "info", "about"]
 ---
 

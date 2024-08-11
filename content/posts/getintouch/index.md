@@ -1,9 +1,9 @@
 ---
-title: "About Us"
+title: "Get in Touch with Us"
 date: 2024-08-11T09:50:00+02:00
 menu: main
-image: img/about.png
-weight: 5
+image: /posts/getintouch.png
+weight: 2
 tags: ["cnp", "info", "about"]
 ---
 
