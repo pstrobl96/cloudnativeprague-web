@@ -7,6 +7,13 @@ weight: 2
 tags: ["cnp", "info", "about"]
 ---
 
+{{< typeit 
+  tag=h1
+  lifeLike=true
+>}}
+Let's connect
+{{< /typeit >}}
+
 If you'd like to connect with other cloud-native enthusiasts so let's join our <a href="https://slack.cloudnativeprague.cz/">Slack</a> or #cloud-native-prague channel in <a href="https://cloud-native.slack.com/">CNCF Slack</a>.
 
 Do you spent more time in cloud than in the human realm? Would you like to share your successes/screw-ups/experience with cloud native tools? How about joining us at a meetup, where we can discuss cloud-native stuff. And don't worry, there's no need to dust off that old suit or tuxedo. :party-parrot:
