@@ -21,9 +21,9 @@ title = "Cloud Native Prague"
    headline = "Best Cloud Native Community in Prague!"
    bio = "A ee bit about you"
    links = [
-     { email = "mailto:hello@your_domain.com" },
      { link = "https://community.cncf.io/cloud-native-prague/" },
      { github = "https://github.com/cloud-native-prague/meetups" },
      { slack = "https://slack.cloudnativeprague.cz/" },
      { linkedin = "https://cz.linkedin.com/company/cloud-native-prague" },
+     { youtube = "https://records.cloudnativeprague.cz/" },
    ]
