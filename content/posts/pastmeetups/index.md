@@ -20,5 +20,3 @@ However, without you, it would be an empty shell. We put on a lot of amazing eve
 As well you can look into our Github repository where we store past presentations from our speakers.
 
 {{< github repo="cloud-native-prague/meetups" >}}
-
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
