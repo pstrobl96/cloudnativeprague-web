@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Cloud Native Prague"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo.png"
+  description = "Cloud Native Prague meetup community website"
+  copyright = "Shaped by pubel.dev"
+
+ [author]
+   name = "Cloud Native Prague"
+   email = "youremail@example.com"
+   image = "img/logo.png"
+   imageQuality = 96
+   headline = "Best Cloud Native Community in Prague!"
+   bio = "A ee bit about you"
+   links = [
+     { email = "mailto:hello@your_domain.com" },
+     { link = "https://community.cncf.io/cloud-native-prague/" },
+     { github = "https://github.com/cloud-native-prague/meetups" },
+     { slack = "https://slack.cloudnativeprague.cz/" },
+     { linkedin = "https://cz.linkedin.com/company/cloud-native-prague" },
+   ]
